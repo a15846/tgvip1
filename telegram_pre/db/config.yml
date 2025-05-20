@@ -1,0 +1,62 @@
+#====================机器人配置
+API_ID: 26243534
+API_HASH: 0b9f3620e84efbf47a8bcdda4fc48e5c
+BOT_TOKEN: 6619700240:AAEWmQXCG_dedLOxL9YKonLHvQdzSZ9uJwk
+
+# TELGRAM  https://fragment.com/premium cookie
+COOKIE: 'stel_ssid=76c1fce29c19fa518a_1688178200495234575; stel_dt=-480; stel_ton_token=QBmmsiris2ASkwb4Jv38b0Aem59ybSWcZJEEGhjR4qmN9GiR1iSWsW1CM-JMJ1v8a_BjieToWZbQdna56Y4EPNXvz2lDcD60UGzI3b5pI-ZQigtgkZ4B5CHShRzhXZkrOCawxJhwAbtD_39mgml4yZiFYcQCpWXxkm7v1d1VPtDI-ecXVdg'
+
+# https://fragment.com/premium
+HASH: 'f987fa25d7a05b5733'
+
+# 客服地址
+KEFU_URL: 'https://t.me/lw17688'
+
+# ton钱包住记词 空格分割
+WALLET_KEY: '﻿﻿image beauty luggage waste suit rhythm cross hospital position shed father flag cycle plunge acquire clutch canyon domain call there ecology hero ticket fee'
+
+
+
+#定时发送客户的群组id -100xxxxxx
+MSG_ID_TO_KE_HU: 1147496086
+
+# 开通成功发送订单给 管理员 或 群 的id
+ADMIN_ID: 1147496086
+
+
+MSG_TO_KE_HU: |-
+  24小时自动开通 TELEGRAM PREMIUM
+  会员 @sxxssss
+  无人只收，自动开通
+
+
+# 定时发送消息的间隔  单位分钟
+CRON_MIN: 3
+
+#===================数据库配置
+DATA_BASE: telegrampre
+IP: 139.180.189.136
+PORT: 3306
+USER: telegrampre
+PASSWD: XAScBbEYmckc7527
+#===================数据库配置
+
+
+#==================== 支付网关相关
+# tokenpay支付网关地址
+PAY_API_URL: http://139.180.189.136:5001
+# tokenpay 支付 key
+PAY_API_KEY: asafaf
+# 回调地址 服务默认端口 2334
+NOTIFY_URL: http://139.180.189.136:2334
+#==================== 支付网关相关
+
+
+
+#日志级别  DEBUG IFNO
+LOG_LEVEL: INFO
+#代理ip 不需要留空
+PROXY_IP: 
+PROXY_PORT: 
+
+

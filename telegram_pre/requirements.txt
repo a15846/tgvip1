@@ -1,0 +1,15 @@
+telethon
+cryptg
+hachoir
+peewee
+sqlalchemy
+coloredlogs
+python_socks
+pyyaml
+aiohttp[speedups]
+PyMySQL
+APScheduler
+ton
+
+
+

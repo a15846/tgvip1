@@ -1,0 +1,12 @@
+version: "3.7"
+services:
+  pre_bot:
+    image: pre_bot
+    network_mode: host
+    container_name: pre_bot
+    restart: always
+    volumes:
+      - ./db:/app/db
+    build: .
+    environment:
+      TZ: Asia/Shanghai
